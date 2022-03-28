@@ -1,0 +1,17 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 0,
+  "sharedPrototype" : 0,
+  "deviceType" : "apple-iphone-7-black",
+  "projectId" : "C632B077-7D2F-417C-A11B-B1CB4BE34664",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}

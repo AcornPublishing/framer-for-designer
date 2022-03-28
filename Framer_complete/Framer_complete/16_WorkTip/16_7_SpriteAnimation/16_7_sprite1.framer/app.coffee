@@ -1,0 +1,1 @@
+cnt = 1bg = new BackgroundLayersprite = new Layer	width : 500	height : 72	image : "images/sprite-steps.png"spriteAnimation = new Animation sprite,	x : -50spriteAnimation.onAnimationEnd ->	cnt += 1	spriteAnimation.properties.x = -50 * cnt	spriteAnimation.start()spriteAnimation.start()
